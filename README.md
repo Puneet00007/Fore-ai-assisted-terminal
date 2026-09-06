@@ -1,4 +1,4 @@
-<h1 align="center">fore</h1>
+<h1 align="center">Fore</h1>
 
 <p align="center">
   <b>A local-first shell copilot for the terminal you already use.</b><br>
